@@ -4,7 +4,7 @@ This repository showcases Python projects developed during my internship at **Co
 
 ---
 
-## 🧩 Project 1: Hangman Game (`hangman_game.py`)
+## 🧩 Project 1: Hangman Game (`task1.py`)
 
 A text-based word guessing game. Users guess letters in a hidden word, with a limited number of wrong attempts allowed.
 
@@ -15,7 +15,7 @@ A text-based word guessing game. Users guess letters in a hidden word, with a li
 
 ---
 
-## 📈 Project 2: Portfolio Tracker (`portfolio_tracker.py`)
+## 📈 Project 2: Portfolio Tracker (`task2.py`)
 
 A simple investment tracker for fictional stock entries. Calculates the total investment based on stock quantities and prices.
 
@@ -26,7 +26,7 @@ A simple investment tracker for fictional stock entries. Calculates the total in
 
 ---
 
-## 🤖 Project 3: Mini Chatbot (`mini_chatbot.py`)
+## 🤖 Project 3: Mini Chatbot (`task3.py`)
 
 A basic command-line chatbot that handles a small set of user inputs with fixed responses.
 
