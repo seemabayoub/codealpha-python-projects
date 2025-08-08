@@ -49,7 +49,7 @@ A basic command-line chatbot that handles a small set of user inputs with fixed 
 
 ## 👨‍💻 Author
 
-**[Seemab Ayoub]**  
+**Seemab Ayoub**  
 Intern at CodeAlpha  
 GitHub: [seemabayoub](https://github.com/seemabayoub)
 
